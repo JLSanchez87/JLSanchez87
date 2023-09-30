@@ -3,7 +3,6 @@
 - 🔭 I’m a recent graduate of MindMingle's <a href="https://www.mindmingle.nl/#course:~:text=Team-,Course,-Sign%20Up">Full-stack developer 10-week coding bootcamp</a>
 - 🌱 I’m currently learning additional in-depth JS & web development courses at Udemy
 - 👯 I’m looking to collaborate on front-end development projects
-- 🤔 I’m looking for help with landing a job
 - 💬 Ask me about anything!
 - 📫 Find me on <a href="http://www.linkedin.com/in/jose-sanchez-04335b132" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: 🎮Avid Gamer | 👨‍👩‍👧Proud Dad | 🕺🏻Salsa | 🎸Guitarist | 🥋Martial Artist
