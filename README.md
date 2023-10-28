@@ -45,4 +45,4 @@ If you have any questions or just want to connect, feel free to send me a messag
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArazionJL) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/jose-sanchez-04335b132) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jl_sanchez@gmail.com)
+<a href="mailto:jl_sanchez@live.nl"><img src="https://img.shields.io/badge/MS_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
