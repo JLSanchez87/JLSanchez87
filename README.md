@@ -2,12 +2,12 @@
 
 I am a former Production manager switching careers to the tech industry. I specifically focus on Front-end development.
 
-- 🔭 I’m a recent graduate of MindMingle's <a href="https://www.mindmingle.nl/#course:~:text=Team-,Course,-Sign%20Up">Full-stack developer 10-week coding bootcamp</a>
-- 🌱 I’m currently learning additional in-depth JS & web development courses at Udemy
-- 👯 I am open to new work opportunities. I’m looking to collaborate on front-end development projects
+- 🔭 I’m a graduate of MindMingle's <a href="https://www.mindmingle.nl/#course:~:text=Team-,Course,-Sign%20Up">Full-stack developer 10-week coding bootcamp</a>
+- 🌱 I’m constantly developing myself to be a better developer.
+- 👯 I am open to new work opportunities. I’m looking to collaborate on full-stack projects
 - 💬 Ask me about anything!
 - 📫 Find me on <a href="http://www.linkedin.com/in/jose-sanchez-04335b132" target="_blank">LinkedIn</a>
-- ⚡ Fun fact: 🎮Avid Gamer | 👨‍👩‍👧Proud Dad | 🕺🏻Salsa | 🎸Guitarist | 🥋Martial Artist
+- ⚡ Fun fact:  👨‍👩‍👧Proud Dad | 🎮Avid Gamer | 🎸Music |🕺🏻Salsa | 🥋Martial Arts
 
 ## :hammer_and_wrench: Skills and Tools :
 
