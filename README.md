@@ -2,7 +2,7 @@
 
 I am a former Production manager switching careers to the tech industry. I specifically focus on Front-end development.
 
-- 🔭 I’m a graduate of MindMingle's <a href="https://www.mindmingle.nl/#course:~:text=Team-,Course,-Sign%20Up">Full-stack developer 10-week coding bootcamp</a>
+- 🔭 I’ve graduated from MindMingle's <a href="https://www.mindmingle.nl/#course:~:text=Team-,Course,-Sign%20Up">Full-stack developer 10-week coding bootcamp</a>
 - 🌱 I’m constantly developing myself to be a better developer.
 - 👯 I am open to new work opportunities. I’m looking to collaborate on full-stack projects
 - 💬 Ask me about anything!
